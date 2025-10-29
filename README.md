@@ -1,29 +1,57 @@
-## Hi there 👋
+<!-- ===== 👋 Intro Section ===== -->
+<h2 align="center">Hi there 👋</h2>
 
-<!--
-**cgung7/cgung7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  안녕하세요! 백엔드와 프론트엔드를 공부하고 있는 <b>최광섭</b>입니다.<br>
+  꾸준히 성장하며, 작은 프로젝트에도 성심껏 임하는 개발자를 지향합니다. 💪
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ===== 🧠 About Me ===== -->
+### 💡 About Me
+- 🌱 현재 배우는 중: **Spring Boot**, **TypeScript**, **React**
+- 💬 관심 분야: **백엔드 개발**, **클린 코드**, **팀 프로젝트 협업**
+- ✨ 목표: **탄탄한 기본기와 함께 성장하는 개발자**
+- 📫 Email: [cgung7@naver.com](mailto:cgung7@naver.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgung7&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgung7&show_icons=true&theme=radical)
+---
 
-<div align="center">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/> 
-<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
-</div>
+<!-- ===== ⚙️ Tech Stack ===== -->
+<h3 align="center">⚙️ Tech Stack ⚙️</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,mysql,html,css,github&theme=dark" />
+</p>
+
+---
+
+<!-- ===== 📊 GitHub Stats ===== -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cgung7&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgung7&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+<!-- ===== 🧩 Featured Projects ===== -->
+<h3 align="center">🚀 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/team-O-Lim/mini-project-task-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-O-Lim&repo=mini-project-task-manager&theme=radical" />
+  </a>
+</p>
+
+---
+
+<!-- ===== 🐍 Contribution Snake (optional) ===== -->
+<p align="center">
+  <img src="https://github.com/cgung7/cgung7/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<h4 align="center">✨ Thank you for visiting! ✨</h4>
