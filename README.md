@@ -47,11 +47,4 @@
 
 ---
 
-<!-- ===== 🐍 Contribution Snake (optional) ===== -->
-<p align="center">
-  <img src="https://github.com/cgung7/cgung7/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 <h4 align="center">✨ Thank you for visiting! ✨</h4>
