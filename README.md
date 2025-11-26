@@ -43,6 +43,9 @@
   <a href="https://github.com/team-O-Lim/mini-project-task-manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-O-Lim&repo=mini-project-task-manager&theme=radical" />
   </a>
+  <a href="https://github.com/team-O-Lim/mini-project-food-truck-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-O-Lim&repo=mini-project-food-truck-manager&theme=radical" />
+  </a>
 </p>
 
 ---
