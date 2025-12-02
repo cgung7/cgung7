@@ -11,7 +11,7 @@
 </p>
 
 ---
-
+<div>
 <!-- About Me -->
 ### 🧠 About Me
 - 🌱 현재 배우는 중: **Spring Boot**, **TypeScript**, **React**
@@ -52,5 +52,6 @@
   </a>
 </p>
 ---
-
+</div>
 <h4 align="center">😀 감사합니다.</h4>
+
