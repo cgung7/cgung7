@@ -1,11 +1,7 @@
-<div>
-  
+<div align="center">
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there%20👋)
-  
 </div>
-<!-- Intro Section -->
-<h2 align="center">Hi there 👋</h2>
 
 <p align="center">
   안녕하세요! 백엔드와 프론트엔드를 공부하고 있는 <b>최광섭</b>입니다.<br>
