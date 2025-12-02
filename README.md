@@ -38,16 +38,10 @@
 
 <!-- Featured Projects -->
 <h3 align="center">💻 Featured Projects</h3>
-
 <p align="center">
-  <a href="https://github.com/team-O-Lim/mini-project-task-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-O-Lim&repo=mini-project-task-manager&theme=radical" />
-  </a>
-  <a href="https://github.com/team-O-Lim/mini-project-food-truck-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-O-Lim&repo=mini-project-food-truck-manager&theme=radical" />
-  </a>
+  [![mini-project-task-manager](https://github-readme-stats.vercel.app/api/pin/?username=team-O-Lim&repo=mini-project-task-manager&theme=radical&cache_seconds=0)](https://github.com/team-O-Lim/mini-project-task-manager)
+  [![mini-project-food-truck-manager](https://github-readme-stats.vercel.app/api/pin/?username=team-O-Lim&repo=mini-project-food-truck-manager&theme=radical&cache_seconds=0)](https://github.com/team-O-Lim/mini-project-food-truck-manager)
 </p>
-
 ---
 
 <h4 align="center">😀 감사합니다.</h4>
