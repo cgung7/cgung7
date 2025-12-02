@@ -33,10 +33,9 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cgung7&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgung7&layout=compact&theme=radical" height="150" />
-</p>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgung7)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgung7)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
