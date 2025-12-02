@@ -33,9 +33,7 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgung7)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgung7)](https://github.com/anuraghazra/github-readme-stats)
+![cgung7 GitHub stats](https://github-readme-stats.vercel.app/api?username=cgung7&show_icons=true&theme=radical) 
 
 ---
 
