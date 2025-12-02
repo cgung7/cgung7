@@ -1,7 +1,10 @@
 <div>
+  
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there%20%👨‍🔧)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  
 </div>
+
 <p align="center">
   안녕하세요! 백엔드와 프론트엔드를 공부하고 있는 <b>최광섭</b>입니다.<br>
   꾸준히 성장하며, 작은 프로젝트에도 성심껏 임하는 개발자를 지향합니다. 🌞
