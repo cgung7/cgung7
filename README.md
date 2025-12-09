@@ -33,20 +33,12 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 
-![cgung7 GitHub stats](https://github-readme-stats.vercel.app/api?username=cgung7&show_icons=true&theme=radical) 
-
 ---
 
 <!-- Featured Projects -->
 <h3 align="center">💻 Featured Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/team-O-Lim/mini-project-task-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-O-Lim&repo=mini-project-task-manager&theme=radical" />
-  </a>
-  <a href="https://github.com/team-O-Lim/mini-project-food-truck-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-O-Lim&repo=mini-project-food-truck-manager&theme=radical" />
-  </a>
 </p>
 ---
 <h4 align="center">😀 감사합니다.</h4>
