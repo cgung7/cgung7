@@ -29,17 +29,5 @@
 </p>
 
 ---
-
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-
----
-
-<!-- Featured Projects -->
-<h3 align="center">💻 Featured Projects</h3>
-
-<p align="center">
-</p>
----
 <h4 align="center">😀 감사합니다.</h4>
 
